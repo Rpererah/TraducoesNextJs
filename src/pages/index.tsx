@@ -15,7 +15,7 @@ export default function Home() {
       <button onClick={() => changeLocale("pt")}>{t("locale_pt")}</button>
       <button onClick={() => changeLocale("es")}>{t("locale_es")}</button>
       <br />
-      <Link href="/teste">Ir para teste</Link>
+      <Link href="/teste">{t("test_route")}</Link>
     </div>
   );
 }

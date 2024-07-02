@@ -8,7 +8,7 @@ export default function Teste() {
 
       <p>{t("welcome")}</p>
       <br />
-      <Link href={"/"}>voltar</Link>
+      <Link href={"/"}>{t("back_route")}</Link>
     </div>
   );
 }

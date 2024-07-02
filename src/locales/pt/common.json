@@ -3,5 +3,7 @@
   "greeting": "Olá",
   "locale_en": "Inglês",
   "locale_pt": "Português",
-  "locale_es": "Espanhol"
+  "locale_es": "Espanhol",
+  "back_route": "Voltar",
+  "test_route": "Ir para teste"
 }
